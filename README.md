@@ -1,9 +1,8 @@
 # blog_template_Bootstrap
-A clean and structured blog template.
+A simple, clean, and structured personal blog template.
 
 Tools: 
   - HTML
   - CSS
-  - Javascript/Bootstrap
   
   No need to give credit for use. 
