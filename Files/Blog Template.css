@@ -1,0 +1,17 @@
+body	{
+	border: 15px solid #bdc3c7;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 30px; 
+}
+h2	{
+	color: #2c6fa8;
+}
+.dates	{
+	opacity: 0.6;
+}
+.paragraph	{
+	border-bottom: 0.8px solid rgba(0, 0, 0, .);
+	padding-bottom: 30px;
+}
+/* Date color: #3498db;*/
