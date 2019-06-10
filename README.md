@@ -1,4 +1,4 @@
-# blog_template_Bootstrap
+# simple_blog_template
 A simple, clean, and structured personal blog template.
 
 Tools: 
